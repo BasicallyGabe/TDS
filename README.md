@@ -1,2 +1,2 @@
-# TDS
+# LoneShot
 isometic-topdown-waveshhoter
