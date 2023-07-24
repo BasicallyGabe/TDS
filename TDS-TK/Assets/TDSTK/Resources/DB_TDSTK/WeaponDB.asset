@@ -12,17 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aba6c810f86d961489a840bd20eaa95b, type: 3}
   m_Name: WeaponDB
   m_EditorClassIdentifier: 
-  objList: []
+  objList:
+  - {fileID: 134440, guid: fd09f1a85fedd2d4aa40fff4d2e91afd, type: 3}
+  - {fileID: 134440, guid: 883b1bc2376ec564284fb80d377fc7ea, type: 3}
+  - {fileID: 134440, guid: a85dbdccbeb36534dbb3994655a793ae, type: 3}
+  - {fileID: 134440, guid: 65fb4da8a72f83d4ca978cbce2f8fe62, type: 3}
+  - {fileID: 122324, guid: ea78b65e7d62f284e80f8d825d4acd38, type: 3}
+  - {fileID: 134440, guid: 65fc4684c1d58fb43b140b08624d5fea, type: 3}
+  - {fileID: 195872, guid: 751f6e7e3655f2548bc041206c06409e, type: 3}
+  - {fileID: 105430, guid: fad6be2d7aaf0a241a0406e724415e08, type: 3}
+  - {fileID: 195872, guid: 413cf7e5e0d08f649817fb4113fe6c2c, type: 3}
+  - {fileID: 134440, guid: 7c8a5e155e375ae4c92f7031fb0cff69, type: 3}
   weaponList:
   - {fileID: 11456444, guid: fd09f1a85fedd2d4aa40fff4d2e91afd, type: 3}
   - {fileID: 11456444, guid: 883b1bc2376ec564284fb80d377fc7ea, type: 3}
   - {fileID: 11456444, guid: a85dbdccbeb36534dbb3994655a793ae, type: 3}
   - {fileID: 11456444, guid: 65fb4da8a72f83d4ca978cbce2f8fe62, type: 3}
   - {fileID: 11459320, guid: ea78b65e7d62f284e80f8d825d4acd38, type: 3}
-  - {fileID: 11456444, guid: 41c22df3e93bf144bb8937bab3502ba6, type: 3}
   - {fileID: 11456444, guid: 65fc4684c1d58fb43b140b08624d5fea, type: 3}
   - {fileID: 11488150, guid: 751f6e7e3655f2548bc041206c06409e, type: 3}
   - {fileID: 11452564, guid: fad6be2d7aaf0a241a0406e724415e08, type: 3}
   - {fileID: 11488150, guid: 413cf7e5e0d08f649817fb4113fe6c2c, type: 3}
   - {fileID: 11456444, guid: 7c8a5e155e375ae4c92f7031fb0cff69, type: 3}
-  copiedFromOldDB: 0
+  copiedFromOldDB: 1

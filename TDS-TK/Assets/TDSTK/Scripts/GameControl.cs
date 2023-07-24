@@ -1,4 +1,4 @@
-﻿//the main component that control the general game logic
+//the main component that control the general game logic
 
 using UnityEngine;
 
@@ -53,7 +53,7 @@ namespace TDSTK{
 		public static void ColletibleCollected(Collectible item){ if(instance!=null && instance.objective!=null) instance.objective.ColletibleCollected(item); }
 		
 		
-		//the active player unit in the game
+		// Aktiver Spieler innerhalb des Spiels - Active player unit in the game 
 		private UnitPlayer player;
 		public static UnitPlayer GetPlayer(){ return instance==null ? null : instance.player ; }
 		public static void SetPlayer(UnitPlayer newPlayer){ if(instance!=null) instance.player=newPlayer; }

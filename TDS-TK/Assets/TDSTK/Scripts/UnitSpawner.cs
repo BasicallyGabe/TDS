@@ -32,7 +32,7 @@ namespace TDSTK{
 		
 		
 		
-		[Header("Procedural Generation Setting")]	//used in freeform and endless wave
+		[Header("Procedural Generation Setting")]	//Freies Spawnen oder Endlose Wellen - freeform and endless wave
 		public List<Unit> spawnUnitList=new List<Unit>();
 		
 		public bool overrideHitPoint=false;
@@ -57,7 +57,7 @@ namespace TDSTK{
 		public int maxSubWaveCount=3;
 		public int unitCount=8;
 		public int unitCountInc=4;
-		private Wave waveE=null;	//the current wave used in endless mode
+		private Wave waveE=null;	// Jetzige Welle im Endlosen Modus - wave used in endless mode
 		
 		public int startingCredit=10;
 		public int creditIncrement=10;

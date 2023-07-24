@@ -77,8 +77,8 @@ MonoBehaviour:
   - ID: 1
     name: Energy
     icon: {fileID: 21300000, guid: f0dbca2397a55ab4cb86061223f90760, type: 3}
-    desp: Each point increase energy capacity by 10 and energy regeneration by 1 per
-      sec
+    desp: Each point increase energy capacity by 10 and energy regeneration by 1
+      per sec
     type: 0
     repeatable: 1
     limit: 10

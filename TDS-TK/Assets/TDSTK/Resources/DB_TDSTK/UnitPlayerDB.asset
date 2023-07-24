@@ -12,11 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d0701bba42d50047b5c86680ec9dc5c, type: 3}
   m_Name: UnitPlayerDB
   m_EditorClassIdentifier: 
-  objList: []
+  objList:
+  - {fileID: 192742, guid: 8d844832e86c04f4ea0f027548fe4494, type: 3}
+  - {fileID: 192742, guid: f50baf3ab52b10244b0454ff11b346b7, type: 3}
+  - {fileID: 192742, guid: 38204cb465cd3754ea875c80e310149f, type: 3}
+  - {fileID: 190590, guid: 2770f176e0bef2e4e88163964fac10b8, type: 3}
+  - {fileID: 192742, guid: 357199accf78d754c91ed2bd5d2bb2de, type: 3}
+  - {fileID: 193908, guid: 7aa6f6434be94e44583bd055d3a42eee, type: 3}
+  - {fileID: 3944988648276334180, guid: 9f8852440f4b0614797e7e4de36e178e, type: 3}
   unitList:
   - {fileID: 11446944, guid: 8d844832e86c04f4ea0f027548fe4494, type: 3}
   - {fileID: 11446944, guid: f50baf3ab52b10244b0454ff11b346b7, type: 3}
   - {fileID: 11446944, guid: 38204cb465cd3754ea875c80e310149f, type: 3}
   - {fileID: 11416300, guid: 2770f176e0bef2e4e88163964fac10b8, type: 3}
   - {fileID: 11446944, guid: 357199accf78d754c91ed2bd5d2bb2de, type: 3}
-  copiedFromOldDB: 0
+  - {fileID: 7474016498259952638, guid: 7aa6f6434be94e44583bd055d3a42eee, type: 3}
+  - {fileID: 3944988648282901538, guid: 9f8852440f4b0614797e7e4de36e178e, type: 3}
+  copiedFromOldDB: 1

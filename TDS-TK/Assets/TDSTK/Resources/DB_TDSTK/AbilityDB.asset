@@ -463,4 +463,34 @@ MonoBehaviour:
     autoDestroyLaunchObj: 0
     launchObjActiveDuration: 10
     launchSFX: {fileID: 0}
+  - ID: 15
+    name: New Ability
+    icon: {fileID: 0}
+    desp: 
+    type: 0
+    moveType: 0
+    duration: 0.2
+    cost: 0
+    cooldown: 0.15
+    currentCD: 0
+    aStats:
+      damageType: 0
+      damageMin: 0
+      damageMax: 0
+      aoeRadius: 0
+      diminishingAOE: 1
+      critChance: 0
+      critMultiplier: 2
+      impactForce: 0
+      explosionRadius: 0
+      explosionForce: 0
+      effectID: -1
+      effectIdx: -1
+    range: 20
+    shootObject: {fileID: 0}
+    shootPosOffset: {x: 0, y: 1, z: 0}
+    launchObj: {fileID: 0}
+    autoDestroyLaunchObj: 1
+    launchObjActiveDuration: 2
+    launchSFX: {fileID: 0}
   copied: 0
